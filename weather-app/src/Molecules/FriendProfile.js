@@ -6,10 +6,6 @@ export function FriendProfile() {
     
     const [profileState, toggleState] = useState(false)
 
-    useEffect(() => {
-        document.title = `meh`;
-      });
-
     return (
     
         <div className={profileState ? 'background selected' : 'background'} onClick={()=>toggleState(!profileState)}>
