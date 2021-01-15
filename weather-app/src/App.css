@@ -1,0 +1,42 @@
+@import url(//fonts.googleapis.com/earlyacccess/nanumgothic.css);
+.App {
+  height: 100vh;
+  background: -webkit-gradient(linear, left top, left bottom, from(#3D60DB), to(#68A2E5));
+  background: linear-gradient(180deg, #3D60DB 0%, #68A2E5 100%);
+}
+
+.App-box {
+  width: 634px;
+  position: absolute;
+  height: 722px;
+  left: 412px;
+  top: 40px;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.17)), to(rgba(255, 255, 255, 0.07)));
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.17) 0%, rgba(255, 255, 255, 0.07) 100%);
+  -webkit-box-shadow: inset 0px 4px 10px rgba(255, 255, 255, 0.1);
+          box-shadow: inset 0px 4px 10px rgba(255, 255, 255, 0.1);
+  border-radius: 40px;
+}
+
+.profile .profile-picture {
+  width: 60px;
+  height: 60px;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+}
+
+.city-name {
+  line-height: 115px;
+  color: #FFFFFF;
+}
+
+.temp {
+  font-family: NanumGothic;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 100px;
+  line-height: 115px;
+  text-align: center;
+  color: #FFFFFF;
+}
+/*# sourceMappingURL=App.css.map */
