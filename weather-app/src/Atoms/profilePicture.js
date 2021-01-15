@@ -1,3 +1,4 @@
+import React from 'react'
 import './profilePicture.css'
 
 export function profilePicture(imageUrl, imageName) {
@@ -8,4 +9,4 @@ export function profilePicture(imageUrl, imageName) {
     )
 }
 
-export default profilePicture
+export default profilePicture;

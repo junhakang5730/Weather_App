@@ -1,5 +1,6 @@
 import './App.css';
-import FriendProfile from './Organisms/FriendProfile.js';
+import FriendList from './Organisms/FriendList';
+import profilePicture from './Atoms/profilePicture';
 
 // let respondJson
 
@@ -8,8 +9,6 @@ import FriendProfile from './Organisms/FriendProfile.js';
 
 // console.log(respondJson)
 
-
-
 function App() {
   return (
     <div className="App">
@@ -17,15 +16,13 @@ function App() {
         <div className="App-box">
           <h1 className="city-name">서울(강남구)</h1>
           <div className="profile main">
-            <div className="profile-picture">
               <img className="profile-picture" src="https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20200603001356048249ecba8d8b8617764132.jpg" alt="mainPicture"/>
-            </div>
             <div className="name main">
               name
             </div>
           </div>
           <h1 className="temp">00℃</h1>
-        <FriendProfile/>
+          <FriendList/>
         </div>
       </header>
     </div>

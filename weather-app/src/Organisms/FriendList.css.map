@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,IAAI;EACZ,MAAM,EAAE,iBAAiB;CASS;;AAdtC,AAOI,UAPM,CAON,MAAM,CAAC;EACH,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;CAAG;;AATzC,AAWI,UAXM,CAWN,KAAK,CAAC;EACF,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,MAAM,EAAE,iBAAiB;CAAG",
+    "sources": [
+        "FriendList.sass"
+    ],
+    "names": [],
+    "file": "FriendList.css"
+}

@@ -1,6 +1,6 @@
 {
-  "name": "-y",
-  "version": "y",
+  "name": "weather-app",
+  "version": "0.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -36,9 +36,9 @@
       "last 1 safari version"
     ]
   },
-  "description": "y",
-  "main": "y",
-  "repository": "y",
-  "author": "y",
-  "license": "y"
+  "description": "junha's private",
+  "main": "-",
+  "repository": "-",
+  "author": "junha",
+  "license": "none"
 }

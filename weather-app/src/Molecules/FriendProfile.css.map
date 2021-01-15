@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,WAAW,CAAC;EACR,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,IAAI,EAAE,KAAK;EACX,GAAG,EAAE,KAAK;EAEV,UAAU,EAAE,OAAO;EACnB,aAAa,EAAE,KAAK;CAAG",
+    "sources": [
+        "FriendProfile.sass"
+    ],
+    "names": [],
+    "file": "FriendProfile.css"
+}

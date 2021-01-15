@@ -1,1 +1,7 @@
-/* No CSS *//*# sourceMappingURL=profilePicture.css.map */
+.profile-picture {
+  width: 60px;
+  height: 60px;
+  background-color: red;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=profilePicture.css.map */
