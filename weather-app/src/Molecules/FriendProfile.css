@@ -6,4 +6,8 @@
   background: #FFFFFF;
   border-radius: 100px;
 }
+
+.selected {
+  background: red;
+}
 /*# sourceMappingURL=FriendProfile.css.map */
